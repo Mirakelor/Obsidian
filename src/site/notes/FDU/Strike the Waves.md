@@ -10,7 +10,7 @@ Pose a question
 Clarify the story
 Conclusion - Keyword
 
-Swimming mid-stream, we struck waves to impede — that boats which passed at flying speed? .
+Swimming mid-stream, we struck waves to impede — that boats which passed at flying speed? 
 Actually, the echoes of the wave don’t just stop in history. They became the motto that spurs us youth to strike waves in the stream of the new epoch.  
 So, what are we Gen Zs doing to change the world?
 
