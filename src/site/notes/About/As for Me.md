@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"As for Me","dg-created":"2025-10-07","dg-home":true,"permalink":"/About/As for Me/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"dg-publish":true,"title":"As for Me","dg-created":"2025-10-07","dg-home":true,"permalink":"/About/As for Me/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"title":"As for Me"}}
 ---
 
 # As for Me 
