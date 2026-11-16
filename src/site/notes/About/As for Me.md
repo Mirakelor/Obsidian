@@ -2,8 +2,6 @@
 {"dg-publish":true,"title":"As for Me","dg-created":"2025-10-07","dg-home":true,"permalink":"/About/As for Me/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{"title":"As for Me"}}
 ---
 
-# As for Me 
-
 **【青衫少年游，曲中藏星斗】**
 
 我是**一座在教室与江湖之间漂移的野生电台**——  
